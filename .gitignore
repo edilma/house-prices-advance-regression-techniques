@@ -78,6 +78,14 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# Kaggle competition data files (download separately from Kaggle)
+data/train.csv
+data/test.csv
+data/sample_submission.csv
+data/data_description.txt
+data/submission.csv
+data/*.zip
+
 # IPython
 profile_default/
 ipython_config.py
